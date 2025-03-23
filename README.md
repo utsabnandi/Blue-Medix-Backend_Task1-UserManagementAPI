@@ -25,7 +25,7 @@ MongoDB (running locally or remotely)
 
 Steps to Run the Project
 Clone the repository:
-git clone <>
+git clone https://github.com/utsabnandi/Blue-Medix-Backend_Task1-UserManagementAPI.git
 cd user-management-api
 
 Install dependencies:
@@ -40,19 +40,19 @@ Use Postman to test the API endpoints.
 
 API Endpoints
 1. Create User (POST)
-![Create User](images/CreateUser-API%20Testing.jpg)
+![Create User](./Images/CreateUser-API%20Testing.jpg)
 
 2. Get All Users
-![Get All Users](images/Get%20User%20by%20ID-API%20Testing.jpg)
+![Get All Users](./Images/Get%20User%20by%20ID-API%20Testing.jpg)
 
 3. Get User by ID
-![Get User by ID](images/Get%20User%20by%20ID-API%20Testing.jpg)
+![Get User by ID](./Images/Get%20User%20by%20ID-API%20Testing.jpg)
 
 4. Update User
-![Update User](images/UpdateUser-API%20Testing.jpg)
+![Update User](./Images/UpdateUser-API%20Testing.jpg)
 
 5. MongoDB Before Deletion
-![MongoDB Before Deletion](images/MongoDB-added%20data.jpg)
+![MongoDB Before Deletion](./Images/MongoDB-added%20data.jpg)
 
 6. MongoDB After Deletion
-![MongoDB After Deletion](images/MongoDB-deleted.jpg)
+![MongoDB After Deletion](./Images/MongoDB-deleted.jpg)
